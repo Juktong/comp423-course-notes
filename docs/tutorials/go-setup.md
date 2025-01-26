@@ -3,8 +3,8 @@
 * Primary author: [Matseoi](https://github.com/JukTong/)
 * Reviewer: [Dennis Wang](https://github.com/DennisComp210)
 * Reference:
-  * [Starting a Static Website Project with MkDocs](https://comp423-25s.github.io/resources/MkDocs/tutorial/?h=mkdocs+tutorial)
-  * [Tutorial: Get started with Go](https://go.dev/doc/tutorial/getting-started)
+    * [Starting a Static Website Project with MkDocs - Kris Jordan](https://comp423-25s.github.io/resources/MkDocs/tutorial/?h=mkdocs+tutorial)
+    * [Tutorial: Get started with Go](https://go.dev/doc/tutorial/getting-started)
 
 
 ## Prerequisites
@@ -189,3 +189,7 @@ Hello COMP423
 - Go modules (`go mod`) help manage dependencies efficiently.
 
 Now that you've successfully written and executed your first Go program, you're ready to explore more advanced topics like functions, error handling, and concurrency! 🚀
+
+!!! success "Congratualation!!!"
+
+    Congrats, you have successfully completed the Go dev container tutorial!!!
